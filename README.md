@@ -52,7 +52,7 @@ The system supports authentication, task tracking, project organization, team co
 
 | Create Task Modal |
 |------------------|
-| <img src="./screenshots/CreateTask.png" width="420" /> |
+| <img src="./screenshots/CreateTask.png" width="320" /> |
 
 ---
 
