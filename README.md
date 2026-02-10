@@ -45,15 +45,17 @@ The system supports authentication, task tracking, project organization, team co
 </p>
 
 ---
-
 ### 3️⃣ Tasks & Create Task
-<p align="center">
-  <img src="./screenshots/Tasks.png" width="520" />
-</p>
 
-<p align="center">
-  <img src="./screenshots/CreateTask.png" width="420" />
-</p>
+| Tasks Page |
+|-----------|
+| <img src="./screenshots/Tasks.png" width="700" /> |
+
+<br/>
+
+| Create Task Modal |
+|------------------|
+| <img src="./screenshots/CreateTask.png" width="420" /> |
 
 ---
 
