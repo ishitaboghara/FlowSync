@@ -48,7 +48,7 @@ The system supports authentication, task tracking, project organization, team co
 
 | Tasks Page |
 |-----------|
-| <img src="./screenshots/Tasks.png" width="700" /> |
+| <img src="./screenshots/Tasks.png" width="600" /> |
 
 | Create Task Modal |
 |------------------|
