@@ -53,28 +53,25 @@ The system supports authentication, task tracking, project organization, team co
 
 
 ---
-
 ### 4️⃣ Projects & Create Project
-<p align="center">
-  <img src="./screenshots/Projects.png" width="520" />
-</p>
 
-<p align="center">
-  <img src="./screenshots/CreateProject.png" width="420" />
-</p>
+| Projects Page | Create Project Modal |
+|---------------|----------------------|
+| <img src="./screenshots/Projects.png" width="520" /> | <img src="./screenshots/CreateProject.png" width="320" /> |
+
 
 ---
-
 ### 5️⃣ Team & Activity Log
+
 <p align="center">
-  <img src="./screenshots/Team.png" width="320" />
-  <img src="./screenshots/ActivityLog.png" width="320" />
+  <img src="./screenshots/Team.png" width="520" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/ActivityLog.png" width="520" />
 </p>
 
 ---
-
-
-
 ## ⚙️ Setup Instructions
 
 ```bash
