@@ -33,15 +33,16 @@ The system supports authentication, task tracking, project organization, team co
 ## 📸 Screenshots
 
 ### 1️⃣ Registration & Login
-
+<p align="center">
 | Register | Login |
 |---------|-------|
 | <img src="./screenshots/Register.png" width="260" /> | <img src="./screenshots/Login.png" width="260" /> |
+</p>p>
 
 
 ### 2️⃣ Dashboard
 <p align="center">
-  <img src="./screenshots/Dashboard.png" width="520" />
+  <img src="./screenshots/Dashboard.png" width="620" />
 </p>
 
 ---
