@@ -97,7 +97,112 @@ mysql -u root -p flowsync_db < database/schema.sql
 Open `frontend/index.html` using **Live Server**.
 
 ---
+## ▶️ How to Run the Project Locally
 
+Follow the steps below to run **FlowSync** on your local system.
+
+---
+
+### 🧩 Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js** (v18+ recommended)
+- **MySQL** (v8+)
+- **Git**
+- Any modern browser (Chrome / Edge)
+
+---
+
+### 🗄️ Database Setup
+
+1. Open MySQL and create a database:
+   ```sql
+   CREATE DATABASE flowsync_db;
+⚙️ Backend Setup
+
+Navigate to the backend folder:
+
+cd backend
+
+
+Install dependencies:
+
+npm install
+
+
+Create a .env file inside the backend folder and add:
+
+PORT=3000
+NODE_ENV=development
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=your_mysql_password
+DB_NAME=flowsync_db
+DB_PORT=3306
+
+JWT_SECRET=your_super_secret_key
+JWT_EXPIRES_IN=7d
+
+FRONTEND_URL=http://localhost:5500
+
+
+Start the backend server:
+
+npm run dev
+
+
+✅ You should see:
+
+FlowSync API Server Running
+Database connected successfully
+
+🌐 Frontend Setup
+
+Open the frontend folder
+
+Open index.html using:
+
+Live Server (VS Code extension) OR
+
+Directly open in browser
+
+The frontend will run on:
+
+http://localhost:5500
+
+🔐 Sample Login (Optional)
+
+If sample data is inserted:
+
+Email: admin@flowsync.com
+
+Password: admin123
+
+🧪 Features to Test
+
+User registration & login
+
+Create / update / delete tasks
+
+Project management
+
+Team members view
+
+Activity logging
+
+Dashboard statistics
+
+📝 Notes
+
+This project was developed as a Final Year Graduation Project
+
+Backend and frontend are separated for clean architecture
+
+Screenshots in the README show actual working features
+
+---
 ## 🌙 UI Note
 
 FlowSync is designed with a **dark-mode focused UI** for a modern and comfortable user experience.
