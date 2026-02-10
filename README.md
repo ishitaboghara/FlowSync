@@ -34,7 +34,7 @@ The system supports authentication, task tracking, project organization, team co
 
 ### 1️⃣ Registration & Login
 <p align="center">
-  <img src="./screenshots/Register.png" width="220" />
+  <img src="./screenshots/Register.png" width="230" />
   <img src="./screenshots/Login.png" width="220" />
 </p>
 
@@ -53,7 +53,7 @@ The system supports authentication, task tracking, project organization, team co
 </p>
 
 <p align="center">
-  <img src="./screenshots/CreateTask.png" width="320" />
+  <img src="./screenshots/CreateTask.png" width="420" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ The system supports authentication, task tracking, project organization, team co
 </p>
 
 <p align="center">
-  <img src="./screenshots/CreateProject.png" width="320" />
+  <img src="./screenshots/CreateProject.png" width="420" />
 </p>
 
 ---
@@ -77,14 +77,7 @@ The system supports authentication, task tracking, project organization, team co
 
 ---
 
-### 📁 Create Project, Team & Activity Log
-<p align="center">
-  <img src="./screenshots/CreateProject.png" width="220" />
-  <img src="./screenshots/Team.png" width="220" />
-  <img src="./screenshots/ActivityLog.png" width="220" />
-</p>
 
----
 
 ## ⚙️ Setup Instructions
 
