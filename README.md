@@ -32,32 +32,29 @@ The system supports authentication, task tracking, project organization, team co
 
 ## 📸 Screenshots
 
-### Login, Register & Dashboard
-
+### 🔑 Login, Register & Dashboard
 <p align="center">
-  <img src="screenshots/Login.png" width="200" />
-  <img src="screenshots/Register.png" width="200" />
-  <img src="screenshots/Dashboard.png" width="200" />
+  <img src="./screenshots/Login.png" width="220" />
+  <img src="./screenshots/Register.png" width="220" />
+  <img src="./screenshots/Dashboard.png" width="220" />
 </p>
 
 ---
 
-### Tasks, Create Task & Projects
-
+### 📋 Tasks, Create Task & Projects
 <p align="center">
-  <img src="screenshots/Tasks.png" width="200" />
-  <img src="screenshots/CreateTask.png" width="200" />
-  <img src="screenshots/Projects.png" width="200" />
+  <img src="./screenshots/Tasks.png" width="220" />
+  <img src="./screenshots/CreateTask.png" width="220" />
+  <img src="./screenshots/Projects.png" width="220" />
 </p>
 
 ---
 
-### Create Project, Team & Activity Log
-
+### 📁 Create Project, Team & Activity Log
 <p align="center">
-  <img src="screenshots/CreateProject.png" width="200" />
-  <img src="screenshots/Team.png" width="200" />
-  <img src="screenshots/ActivityLog.png" width="200" />
+  <img src="./screenshots/CreateProject.png" width="220" />
+  <img src="./screenshots/Team.png" width="220" />
+  <img src="./screenshots/ActivityLog.png" width="220" />
 </p>
 
 ---
